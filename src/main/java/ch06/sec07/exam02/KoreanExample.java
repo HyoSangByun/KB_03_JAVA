@@ -1,11 +1,11 @@
-package main.java.ch06.sec07.exam02;
+package ch06.sec07.exam02;
 
 public class KoreanExample {
 
     public static void main(String[] args) {
 //        Korean 객체 생성
-        Korean korean1 = new Korean("박자바", "011225-1234567");
-        Korean korean2 = new Korean("김자바", "930525-0654321");
+        main.java.ch06.sec07.exam02.Korean korean1 = new main.java.ch06.sec07.exam02.Korean("박자바", "011225-1234567");
+        main.java.ch06.sec07.exam02.Korean korean2 = new main.java.ch06.sec07.exam02.Korean("김자바", "930525-0654321");
 
 //        출력
         System.out.println("k1.nation : " + korean1.nation);

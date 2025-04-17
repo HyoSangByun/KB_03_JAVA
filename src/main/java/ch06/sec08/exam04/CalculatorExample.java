@@ -1,4 +1,5 @@
-package main.java.ch06.sec08.exam04;
+package ch06.sec08.exam04;
+import main.java.ch06.sec08.exam04.Calculator;
 
 public class CalculatorExample {
 

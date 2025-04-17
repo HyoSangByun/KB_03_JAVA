@@ -1,9 +1,11 @@
-package main.java.ch06.sec08.exam02;
+package ch06.sec08.exam02;
+
+import main.java.ch06.sec08.exam02.Computer;
 
 public class ComputerExample {
 
     public static void main(String[] args) {
-        Computer myCom = new Computer(); //Computer 객체 생성
+        main.java.ch06.sec08.exam02.Computer myCom = new Computer(); //Computer 객체 생성
         int result1 = myCom.sum(1, 2, 3);
         System.out.println("result1: " + result1);
         int result2 = myCom.sum(1, 2, 3, 4, 5);

@@ -1,5 +1,6 @@
-package main.java.ch06.sec07.exam05;
+package ch06.sec07.exam05;
 
+import main.java.ch06.sec07.exam05.Car;
 public class CarExample {
 
     public static void main(String[] args) {

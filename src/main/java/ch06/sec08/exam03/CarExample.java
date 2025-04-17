@@ -1,9 +1,9 @@
-package main.java.ch06.sec08.exam03;
-
+package ch06.sec08.exam03;
+import  main.java.ch06.sec08.exam03.Car;
 public class CarExample {
 
     public static void main(String[] args) {
-        Car car = new Car();
+        Car car = new main.java.ch06.sec08.exam03.Car();
         car.setGas(5);
         if (car.isLeftGas()) {
             System.out.println("출발합니다.");
