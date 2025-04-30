@@ -2,7 +2,7 @@ package ch15.sec05.exam04;
 
 import java.util.Comparator;
 
-public class FruiteComparator implements Comparator<Fruit> {
+public class FruitComparator implements Comparator<Fruit> {
 
 
     @Override
