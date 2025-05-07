@@ -10,7 +10,7 @@ public class ComparatorExample2 {
                 return o1.price - o2.price;
             }
         });
-
+        
         fruits.add(new Fruit("포도", 3000));
         fruits.add(new Fruit("수박", 10000));
         fruits.add(new Fruit("딸기", 6000));
